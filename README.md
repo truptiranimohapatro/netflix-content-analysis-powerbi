@@ -66,46 +66,43 @@ This project analyzes Netflix movies and TV shows using Microsoft Power BI. The 
 
 | KPI | Value |
 |---|---|
-| 🎬 Total Titles | Based on dashboard |
-| 🎥 Total Movies | Based on dashboard |
-| 📺 Total TV Shows | Based on dashboard |
-| 📅 Total Release Years | Based on dashboard |
-| 🎭 Total Genres | Based on dashboard, if calculated |
+| 🎬 Total Titles | 8,807 |
+| 🎥 Total Movies | 6,131 |
+| 📺 Total TV Shows | 2,676 |
 
 ---
 
 ## 🔍 Key Insights
 
-**Overall Content**
+**Overall**
+- The dataset contains **8,807 Netflix titles**, including movies and TV shows.
+- **Movies account for approximately 70%** of the content, while TV shows represent around 30%.
 
-- Compare the distribution of Movies and TV Shows in the Netflix dataset.
-- Understand the overall composition of the content library.
+**Content Type**
+- Netflix has a larger number of movies than TV shows.
+- Movies make up the majority of the titles available in the dataset.
 
 **Release Year**
-
-- Identify trends in the number of titles released over time.
-- Explore changes in content distribution across different years.
+- Content releases increased significantly during the 2010s.
+- The dataset includes titles released across several decades.
 
 **Genre Analysis**
-
-- Identify frequently represented genres.
-- Compare content availability across different categories.
+- **International Movies** and **Dramas** are among the most represented categories.
+- Comedies and documentaries also contribute to the variety of content.
 
 **Country Analysis**
-
-- Explore the distribution of Netflix titles across countries.
-- Identify countries with a higher representation of titles.
+- The **United States** has the highest number of titles in the dataset.
+- India is also a major contributor to Netflix's content library.
 
 **Content Ratings**
-
-- Analyze the distribution of titles across rating categories.
-- Compare ratings across different types of content.
-
+- **TV-MA** and **TV-14** are among the most common content ratings.
+- Netflix's catalog includes content intended for different audience groups.
+  
 ---
 
 ## 📂 Dataset
 
-[⬇️ View Netflix Movies and TV Shows Dataset (Kaggle)](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+[⬇️ View Netflix Raw Data](https://drive.google.com/drive/folders/1ZjZivvFgXJfj1CJZC5OxQGP-tiY1YgUe?usp=sharing)
 
 **Columns:** Show ID, Type, Title, Director, Cast, Country, Date Added, Release Year, Rating, Duration, Listed In, Description.
 
@@ -115,6 +112,6 @@ This project analyzes Netflix movies and TV shows using Microsoft Power BI. The 
 
 **Trupti Rani Mohapatro**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/) | 💻 [GitHub](https://github.com/truptiranimohapatro)
+🔗 [LinkedIn](https://www.linkedin.com/in/trupti-rani-mohapatro-99545a36a/?isSelfProfile=true) | 💻 [GitHub](https://github.com/truptiranimohapatro)
 
 ⭐ If you found this project useful, consider giving it a star!
