@@ -21,7 +21,7 @@ This project analyzes Netflix movies and TV shows using Microsoft Power BI. The 
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="Netflix Dashboard.jpg" alt="Netflix Content Analysis Dashboard" width="100%">
+  <img src="Netflix Dashboard.jpg" alt="Netflix Power BI Dashboard" width="100%">
 </p>
 
 ---
